@@ -118,6 +118,9 @@ HFSS版本：2018.2
 ![image](https://github.com/nikankind/YagiAntennaOpt-using-Parl/blob/master/images/3.png)
 
 优化后，方向性指标为14.29，接近理论计算结果。
+## 使用说明
+
+首先在HFSS中打开模型，然后运行train.py进行训练，训练结果会保存为log文件
 
 ## 关于作者
 姓名：倪侃
