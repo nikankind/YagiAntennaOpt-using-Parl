@@ -45,6 +45,10 @@ Optimization of Yagi Antenna Based on Reinforcement Learning Framework Parl
 
 HFSS是一款有限元电磁仿真软件
 
+模型路径：https://github.com/nikankind/YagiAntennaOpt-using-Parl/blob/master/Model/Yagi.aedt
+
+HFSS版本：2018.2
+
 利用2中的计算结果对八木天线进行参数化建模并仿真，结果如下图所示：
 
 ![image](https://github.com/nikankind/YagiAntennaOpt-using-Parl/blob/master/images/1.png)
