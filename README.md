@@ -21,3 +21,4 @@ Optimization of Yagi Antenna Based on Reinforcement Learning Framework Parl
 ## 项目工作
 ###1 天线介绍及设计目标确定
 八木天线是一种
+[!image](https://github.com/nikankind/YagiAntennaOpt-using-Parl/blob/master/images/timg.jpg)
