@@ -114,3 +114,8 @@ HFSS是一款有限元电磁仿真软件
 ![image](https://github.com/nikankind/YagiAntennaOpt-using-Parl/blob/master/images/3.png)
 
 优化后，方向性指标为14.29，接近理论计算结果。
+
+## 关于作者
+倪侃
+现居上海
+业余无线电呼号：BH4FAP
