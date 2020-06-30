@@ -12,7 +12,7 @@ Optimization of Yagi Antenna Based on Reinforcement Learning Framework Parl
     year = {2020},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {\url{https://github.com/PaddlePaddle/RLSchool/tree/master/rlschool/quadrotor}},
+    howpublished = {\url{https://github.com/nikankind/YagiAntennaOpt-using-Parl/}},
 }
 ```
 
